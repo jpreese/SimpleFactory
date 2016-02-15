@@ -1,0 +1,2 @@
+# SimpleFactory
+SimpleFactory Pattern
